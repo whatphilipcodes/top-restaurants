@@ -7,10 +7,7 @@ https://github.com/harblaith7/Nuxt3-Course-Udemy
 
 ## Personal Notes
 
-For Nuxt 3 Setup see:<br>
-https://v3.nuxtjs.org/getting-started/installation<br>
-
-creating new nuxt 3 project:<br>
+# Creating new nuxt 3 project:
 
 1) navigate to projects folder
 ```bash
@@ -32,7 +29,8 @@ npm install
 code <nuxt-app-name>
 ```
 
-
+For additional Nuxt 3 setup info see:<br>
+https://v3.nuxtjs.org/getting-started/installation
 
 # Nuxt 3 Boilerplate
 
