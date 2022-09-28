@@ -1,8 +1,14 @@
 <template>
     <div>
         <div class="container">
-            <h1>Page not found.</h1>
-            <NuxtLink to="/restaurants">Go Back</NuxtLink>
+            <NuxtLayout name="error">
+                <template #header>
+                    <h1>Page not found.</h1>
+                </template>
+                <template #redirectEl>
+                    <NuxtLink to="/">Go Back</NuxtLink>
+                </template>
+            </NuxtLayout>
         </div>
     </div>
 </template>
@@ -11,5 +17,9 @@
 .container {
     text-align: center;
     margin-top: 5rem;
+}
+
+.img {
+    width: 20rem;
 }
 </style>
