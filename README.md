@@ -5,9 +5,9 @@ GitHub Links:<br>
 https://github.com/harblaith7<br>
 https://github.com/harblaith7/Nuxt3-Course-Udemy
 
-## Personal Notes
+# Personal Notes
 
-# Creating new nuxt 3 project:
+## Creating new nuxt 3 project:
 
 1) navigate to projects folder
 ```bash
